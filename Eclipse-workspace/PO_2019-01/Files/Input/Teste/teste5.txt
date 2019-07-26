@@ -1,0 +1,100 @@
+﻿Acabador de Embalagem;Coca-Cola Femsa Brasil;RN
+Aderecista;Construtora Queiroz Galvao;ES
+Aderecista;Paranapanema;ES
+Administrador Hospitalar;EMS;GO
+Administrador Predial;Aegea Saneamento;SE
+Administrador de Dados;Dass Sport Style;AM
+Administrador de Sistemas;BRF;BA
+Administrador de Sistemas;Odebrecht Transport;BA
+Advogado Civel;Eletrobras;MG
+Advogado Civel;Magnesita;MG
+Afiador de Ferramentas;Rhodia;MA
+Agente de Seguranca;Nestlé;RR
+Ajudante de Metalúrgico;Atacadao/Carrefour;RS
+Ajudante de Vidraceiro;Odebrecht;PR
+Analista Comercial;EDP - Energias do Brasil;AP
+Analista Comercial;Globo;AP
+Analista Programador ADVPL;Novelis;MG
+Analista Programador ASP.NET;Accenture;MT
+Analista Programador ASP.NET;Invepar;MT
+Analista de Apuracao de Resultados;Duratex;MT
+Analista de Auditoria;CEG Rio;AL
+Analista de Cambio;MRV;PI
+Analista de Cobranca;Cocamar;SP
+Analista de Contas;Amaggi;SC
+Analista de Contas;Lojas Marisa;SC
+Analista de Controles Internos;Innova;PB
+Analista de Controles Internos;Pfizer;PB
+Analista de Departamento Pessoal;Kroton;ES
+Analista de Engenharia;Totvs;RN
+Analista de Engenharia;Ultrapar;RN
+Analista de Eventos;Aegea Saneamento;MT
+Analista de Eventos;Grupo Aguia Branca;MT
+Analista de Eventos;Grupo MGB ;MT
+Analista de Frota;Lojas Renner;RJ
+Analista de Geoprocessamento;Novelis;PR
+Analista de Geoprocessamento;Pfizer;PR
+Analista de Governanca de TI;Cielo;AC
+Analista de PCP;Clime;RR
+Analista de Pesquisa de Mercado;Algar Agro;AP
+Analista de Pesquisa de Mercado;Drogarias DPSP;DF
+Analista de Processos Industriais;Lojas Marisa;PE
+Analista de Projetos;Bayer;AM
+Analista de Publicidade e Propaganda;Zaffari;SC
+Analista de QSMS;Glencore;SC
+Analista de Recrutamento e Selecao;Bunge Acucar e Bioenergia;AL
+Analista de Relacionamento;Itaipu;AP
+Analista de Responsabilidade Social;Engie Brasil Energia ;SE
+Analista de Responsabilidade Social;Gol Linahs Aereas;SE
+Analista de Retencao;White Martins;GO
+Analista de Seguranca do Trabalho;Copersucar;GO
+Analista de Seguranca do Trabalho;Sotreq;GO
+Analista de Seguros;Estacio Participacoes;MS
+Analista de Seguros;GPS Participacoes;MS
+Analista de Seguros;Comexport;PE
+Analista de Sistemas;GPS Participacoes;AM
+Analista de Sistemas SharePoint;Cenibra;RO
+Antropologo;Coop;PI
+Antropologo;ECTP;PI
+Antropologo;Energisa;PI
+Apontador de Obras;M&G Polímeros;PB
+Apontador de Obras;MRV;PB
+Apontador de Producao;Biosev;ES
+Apontador de Producao;Supermercados EPA;ES
+Aprendiz na area Administrativa;Bosch;RO
+Aprendiz na area Comercial;Ultrapar;AP
+Aprendiz na area Financeira;Embasa;SE
+Aprendiz na area Financeira;JBS;SE
+Aprendiz na area Mecanica;Electrolux;RJ
+Aprendiz na area Mecanica;TIM Participações;RJ
+Aprendiz na area de Producao;Editora Saraiva;RS
+Aprendiz na area de Recepcao;Rede;RJ
+Arquiteto Especificador;Globo;RR
+Arquiteto Paisagista;Sotreq;MG
+Arquiteto Paisagista;Totvs;MG
+Arquiteto de Interiores;Cemig;RR
+Arquiteto de Sistemas;Anglo American Minerio de Ferro;AM
+Arquiteto de Solucoes;Pfizer;PA
+Arquivista;Copagaz;RS
+Arquivista;Via Varejo;RS
+Assessor Juridico;Rede;RO
+Assistente Comercial;Procter and Gamble do Brasil;SC
+Assistente Fiscal;Dasa;AC
+Assistente Tecnico;CNH;RJ
+Assistente Tecnico de Edificacoes;Sapore;RO
+Assistente de Atendimento Publicitario;InterCement;PA
+Assistente de Cadastro;Cocamar;ES
+Assistente de Controle de Qualidade;Petrovia;ES
+Assistente de Desembaraco Aduaneiro;Petrovia;GO
+Assistente de Diretoria;Bunge Alimentos;MT
+Assistente de Diretoria;Cooxupe;MT
+Assistente de Engenharia;Comerc Energia;MG
+Assistente de Faturamento;Aperam Inox America do SUl;BA
+Assistente de Loja;Nufarm;MS
+Assistente de Loja;TI & Telecom;MS
+Assistente de Monitoramento;Cia. Hering;AM
+Assistente de Monitoramento;Elcano;AM
+Assistente de PCP;Profarma;SP
+Assistente de Pesquisa e Desenvolvimento;Cervejaria Ambev;PA
+Assistente de Recebimento Fiscal;Atento;PI
+Assistente de Recursos Humanos;Capitale;AL

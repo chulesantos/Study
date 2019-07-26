@@ -1,0 +1,61 @@
+class Pessoa{	
+	String nome;
+	Pessoa(){
+		// chama o construtor Object() implicitamente
+		System.out.println("Executou Pessoa()");
+	}
+	Pessoa(String nome){
+		// chama o construtor Individuo()
+		this();
+		this.nome = nome;
+		System.out.println("Executou Pessoa(String nome)");
+	}
+}
+
+class Funcionario extends Pessoa{
+	String empresa, cargo, matricula;
+	Funcionario(){
+		// chama o construtor Individuo() implicitamente
+		System.out.println("Executou Funcionario()");
+	}
+	Funcionario(String nome, String empre){
+		// chama o construtor Individuo(com 1 argumento) 
+// explicitamente
+		super(nome);
+		this.empresa = empre;
+		System.out.println("Executou Funcionario(String nome, 
+String empre)");
+	}
+	Funcionario(String nome, String empre, String cargo){
+		// chama o construtor Funcionario(com 2 argumentos)
+// explicitamente
+		this(nome, empre);
+		this.cargo = cargo;
+		System.out.println("Executou Funcionario(String nome, 
+ String empre, String cargo)");
+	}
+	Funcionario(String nome, String empre, String cargo, 
+                 String matricula){
+		// chama o construtor Funcionario(com 3 argumentos) 
+// explicitamente
+		this(nome, empre, cargo);
+		this.matricula = matricula;
+		System.out.println("Executou Funcionario(String nome, 
+ String empre, String cargo, 
+ String matricula)");
+	}
+}
+
+public class TesteConstrutores{
+	public static void main(String args[]){
+
+		System.out.println("=======================");
+		System.out.println("Instancia objeto Pessoa");
+		Pessoa p2 = new Pessoa("Joaquim");		
+
+		System.out.println("\n=======================");
+		System.out.println("Instancia objeto Funcionario");
+		Funcionario f2 = new Funcionario("Roberto", "Sun", 
+"Programmer", "123456");		
+	}
+}

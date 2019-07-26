@@ -1,0 +1,500 @@
+Visual Merchandiser;Repsol Sinopec Brasil;MA
+Visual Merchandiser;Dimed;MA
+Vistoriador de Veiculos;Rhodia;MA
+Vistoriador de Veiculos;Innova;MA
+Vistoriador de Veiculos;Ale;MA
+Vistoriador de Imoveis;State Grid Brazil Holding;PR
+Vistoriador de Imoveis;Cielo	;PR
+Vistoriador de Imoveis;NTS;DF
+Vendedor de Frete;Innova;RR
+Tratador de Piscina;Rumo;TO
+Tratador de Piscina;Rhodia;TO
+Tratador de Piscina;Novelis;TO
+Trainee na area Fiscal;WEG;AM
+Trainee na area Fiscal;Dass Sport Style;AM
+Trainee em Suporte Tecnico;UOL;SE
+Trainee em Recursos Humanos;Dass Sport Style;PR
+Trainee em Engenharia Mecanica;Sapore;PE
+Trainee em Engenharia;Agrex;PA
+Trainee em Arquitetura e Urbanismo;Enel Brasil;TO
+Trainee em Administracao de Empresas;WEG;SE
+Tradutor de Italiano;Lojas Marisa;MS
+Tradutor de Italiano;Esho;MS
+Torneiro Mecanico;Mateus Supermercados;RO
+Torneiro Mecanico;Cemig;MT
+Tecnologo em Radiologia;Cielo	;DF
+Tecnico em Seguranca Eletrônica;Editora Saraiva;DF
+Tecnico em Secretariado;Magnesita;RN
+Tecnico em Recursos Humanos;Azul;AC
+Tecnico em Projetos;Whirlpool ;AL
+Tecnico em Projetos;Grendene;AL
+Tecnico em Plasticos;Construtora Queiroz Galvao;PB
+Tecnico em Plasticos;Arteris;ES
+Tecnico em Orientacao e Mobilidade;Saint-Gobain;RO
+Tecnico em Mineracao;Amaggi;ES
+Tecnico em Fibras opticas;CCR;PI
+Tecnico em Farmacia;Magazine Luiza;PI
+Tecnico em Farmacia;Aperam Inox America do SUl;PI
+Tecnico em Estradas;Braskem;PE
+Tecnico em Enfermagem do Trabalho;Casas Pernambucanas;RO
+Tecnico em Eletrotecnica;Gerdau;PR
+Tecnico em Eletroencefalograma;Avon Brasil;ES
+Tecnico em Edificacoes;Ache;BA
+Tecnico em Cabeamento;Bunge Alimentos;RN
+Tecnico em Cabeamento;Amaggi;RN
+Tecnico em CFTV;Duratex;RS
+Tecnico de Som;Energia Sustentavel do Brasil;AC
+Tecnico de Processos;EcoRodovias;MA
+Tecnico de Processos;Eldorado Brasil;GO
+Tecnico de Instalacao;Caesb;AP
+Tecnico de Infraestrutura;Telmex Solutions;ES
+Tecnico de Infraestrutura;Esho;AC
+Tecnico Operacional;Cervejaria Ambev;PR
+Tecnico Operacional;Bosch;PR
+Tapeceiro de Veiculos;Volvo do Brasil;MA
+Sushiman;Telefonica Brasil;BA
+Supervisor de Vendas;Saga;SE
+Supervisor de SAC;Lojas Marisa;DF
+Supervisor de SAC;Honda;DF
+Supervisor de Prevencao de Perdas;Agrex;BA
+Supervisor de Pos-venda;Servimed;ES
+Supervisor de PCP;Repsol Sinopec Brasil;MT
+Supervisor de Meio Ambiente;Cargill;GO
+Supervisor de Meio Ambiente;WEG;BA
+Supervisor de Meio Ambiente;Unipar Carbocloro;BA
+Supervisor de Meio Ambiente;Celesc;BA
+Supervisor de Manutencao Predial;Comexport;SC
+Supervisor de Infraestrutura;Eletrobras;DF
+Supervisor de Hotelaria;Solvi;BA
+Supervisor de Filial;Raizen;AP
+Supervisor de Departamento Pessoal;Destro;AM
+Supervisor de Credito e Cobranca;Zaffari;RO
+Supervisor de Contas a Receber;Casas Pernambucanas;ES
+Supervisor de Contas a Receber;NTS;AM
+Supervisor Financeiro;Eletrobras;RR
+Secretaria Financeira;Fundacao do ABC;RO
+Secretaria Financeira;Anglo American Minerio de Ferro;RO
+Secretaria Financeira;Engie Brasil Energia ;AL
+Secretaria Comercial;Super Mercado Zona Sul;RN
+Saladeiro;Embraer;AM
+Roteirista;JBS;MA
+Redator;Gazin;GO
+Redator;Estacio Participacoes;GO
+Recebedor;Destro;AP
+Recebedor;Caramuru Alimentos;AP
+Publicitario;Correios;SE
+Psicologo Organizacional;Intelbras S.A.;TO
+Promotor de Financiamento;CEEE;PI
+Promotor de Financiamento;Sonda Supermercados;CE
+Promotor de Eventos;Dia Brasil;GO
+Promotor Tecnico;Lojas Renner;DF
+Promotor Tecnico;Amaggi;DF
+Projetista de Telecomunicacoes;Bunge Acucar e Bioenergia;AP
+Projetista de Produto;Adecoagro Brasil;ES
+Projetista de Produto;Cencosud;BA
+Programador Python;UOL;RO
+Programador Python;Bayer;RO
+Programador Node.js;Estacio Participacoes;AL
+Programador Node.js;Azul;AL
+Programador Mobile;MRS Logistica;RS
+Programador Mobile;Claro Telecom;RS
+Programador Microsiga;Solvi;MG
+Programador JavaScript;Cielo	;SC
+Programador CNC;Bunge Alimentos;TO
+Programador Back-end;Rhodia;GO
+Programador BPM;Aperam Inox America do SUl;DF
+Professor de Xadrez;Aurora;AC
+Professor de Web Design;Citrosuco;AM
+Professor de Web Design;Biosev;AM
+Professor de Vendas;Elo;PE
+Professor de Teologia;Hypera Pharma;SC
+Professor de SQL;Samsung;PB
+Professor de Russo;Cosan;DF
+Professor de Programacao de Computadores;MRV;PR
+Professor de Programacao de Computadores;Correios;PR
+Professor de Petroleo e Gas;Coca-Cola Femsa Brasil;SE
+Professor de Petroleo e Gas;Aperam Inox America do SUl;SE
+Professor de Petroleo e Gas;Ajinomoto do Brasil;PI
+Professor de Odontologia;Minerva Foods;SC
+Professor de Mecanica;Albras;RJ
+Professor de Matematica;EDP - Energias do Brasil;RR
+Professor de Hotelaria;CNH;MG
+Professor de Historia;Mosaic;AC
+Professor de Historia;MRS Logistica;AC
+Professor de Hidroginastica;Eldorado Brasil;GO
+Professor de Hebraico;Celesc;PI
+Professor de Gestao Financeira;Petrobras;RR
+Professor de Futebol;Agrex;SP
+Professor de Ensino Fundamental;Caesb;RR
+Professor de Engenharia Civil;Embraer;ES
+Professor de Engenharia Civil;Atento;ES
+Professor de Engenharia Ambiental;Profarma;PI
+Professor de Engenharia;Lojas Renner;PE
+Professor de Educacao Infantil;Saint-Gobain;SP
+Professor de Direito Administrativo;Coopavel;PE
+Professor de Direito Administrativo;Supermercados EPA;GO
+Professor de Direito Administrativo;Alcoa World Alumina Brasil;GO
+Professor de Desenho Tecnico;Destro;CE
+Professor de CorelDRAW;Walmart;PB
+Professor de CorelDRAW;Telmex Solutions;PB
+Professor de CorelDRAW;CEG Rio;PB
+Professor de Ciencia da Computacao;Vicunha Textil;AL
+Professor de Biologia;CBMM;RJ
+Professor de Administracao de Empresas;Oi;RR
+Produtor de Eventos;Rhodia;MS
+Produtor de Eventos;Mafra Hospitalar;DF
+Produtor Editorial;Minerva Foods;PE
+Pintor de Estruturas Metalicas;Supermercados EPA;PB
+Piloto de Testes;Sotreq;AP
+Piloto de Testes;Potencial;AP
+Piloto de Aviao;Hydro Alunorte;ES
+Pesador;Tres Coracoes Alimentos;SE
+Pedreiro;Camil;SE
+Pedreiro;CEG;GO
+Panfleteiro;Engie Brasil Energia ;PB
+Operador de Televendas;Servimed;RR
+Operador de Televendas;Mosaic;DF
+Operador de Maquina de Corte;Saint-Gobain;ES
+Operador de Guilhotina;B3;AP
+Operador de Corte e Solda;Zaffari;PR
+Operador de Corte e Solda;Prossegur;PR
+Operador de Corte e Solda;Petrobras;PR
+Operador de Corte e Dobra;Clime;MT
+Operador de Corte e Dobra;Casas Pernambucanas;MT
+Operador de Cobranca;Mafra Hospitalar;MT
+Operador de Central de Concreto;Zaffari;PR
+Oficial Eletricista;Saga;SP
+Oficial Eletricista;Comerc Energia;SP
+Motorista de Ambulancia;Sapore;DF
+Motorista de Ambulancia;Avibas;DF
+Motorista Categoria E;Electrolux;MA
+Monitor de Qualidade;Vallourec;RN
+Modelo de Prova;Roche;PI
+Meio Oficial de Manutencao Predial;Supermercado Bahamas;MA
+Meio Oficial de Ferramentaria;Bianchini;RS
+Meio Oficial Carpinteiro;Saga;PI
+Medico Urologista;Engie Brasil Energia ;PR
+Medico Ultrassonografista;Energisa;MG
+Medico Ultrassonografista;Elcano;MG
+Medico Ultrassonografista;Samsung;AC
+Medico Neurocirurgiao;Basf;PR
+Medico Geriatra;Louis Dreyfus;RS
+Medico Ambulatorial;Avibas;RR
+Medico Alergologista;Cotrijal;SE
+Mecanico de Manutencao Hidraulica;Guararapes;SC
+Mandrilhador;Caesb;RR
+Lider de Visual Merchandising;Citrosuco;ES
+Lider de Merchandising;Tres Coracoes Alimentos;ES
+Lider de Manutencao;Guararapes;ES
+Lider de Logistica;Paranapanema;AP
+Lider de Help Desk;JBS;RN
+Lavador de Veiculos;Servimed;PB
+Lavadeiro;Sao Martinho;DF
+Lavadeiro;Votorantim Cimentos;AL
+Laboratorista de Solos;Azul;TO
+Laboratorista Fotografico;Samsung;RJ
+Laboratorista Fotografico;Coca-Cola Andina Brasil;RJ
+Instrumentista;Nufarm;PI
+Instalador de Vidros Automotivos;Infraero;RO
+Instalador de Vidros;Coopavel;RS
+Instalador de TV a Cabo;Arteris;GO
+Instalador de Insulfilm;Potencial;MT
+Instalador de Equipamentos Eletrônicos;Mosaic;PR
+Inspetor de Solda;GPA;RN
+Inspetor de Qualidade;Equatorial Energia;RR
+Inspetor Veicular;Atacadao/Carrefour;PI
+Impressor de Rotogravura;Nestlé;TO
+Impressor Tampografico;Votorantim Cimentos;RS
+Governanta;GPS Participacoes;MS
+Gestor de Ecorrelacoes;Dass Sport Style;MS
+Gestor de Ecorrelacoes;South32 Minerals;GO
+Gerente de Vendas;Tambasa Atacadistas;MG
+Gerente de Vendas;Estacio Participacoes;MG
+Gerente de Tecnologia da Informacao;MRV;PA
+Gerente de Suporte Tecnico;Supermercado Bahamas;GO
+Gerente de Suporte Tecnico;Destro;GO
+Gerente de Suporte Tecnico;Tereos Internacional;CE
+Gerente de Seguranca da Informacao;Multilaser;DF
+Gerente de Responsabilidade Social;Cencosud;AP
+Gerente de Responsabilidade Social;ABB;AP
+Gerente de Producao;Ache;CE
+Gerente de Pos-venda;Sapore;DF
+Gerente de Pesquisa e Desenvolvimento;Saint-Gobain;PI
+Gerente de Orcamento;Walmart;PI
+Gerente de Orcamento;Farmacias Pague Menos;PI
+Gerente de Moda;Walmart;PI
+Gerente de Licitacao;Atento;TO
+Gerente de Lavanderia;Amaggi;MG
+Gerente de Investimentos;Eurofarma;MT
+Gerente de Inventario;Lojas Renner;AP
+Gerente de Fusoes e Aquisicoes;Invepar;AL
+Gerente de Facilities;Samsung;RO
+Gerente de Facilities;Lojas Americanas;RO
+Gerente de Facilities;Enel Brasil;RO
+Gerente de Departamento Pessoal;Bunge Acucar e Bioenergia;PI
+Gerente de Contratos;Accenture;AL
+Gerente de Contabilidade;Destro;MS
+Gerente de Beneficios;Fundacao do ABC;TO
+Gerente de Beneficios;CNH;TO
+Gerente de Assuntos Regulatorios;Sanofi;RJ
+Gerente de Assuntos Regulatorios;Dimed;RJ
+Gerente de Assistencia Tecnica;Destro;MS
+Gerente de Alimentos e Bebidas;Copel;SE
+Gerente Financeiro;Correios;BA
+Gemologo;Globo;SP
+Fotografo;Ultrapar;RS
+Fotografo;Correios;RS
+Fisioterapeuta Dermato Funcional;Servimed;PI
+Fiscal de Loja;Multilaser;GO
+Fiscal de Loja;Electrolux;CE
+Ferramenteiro;Magazine Luiza;AC
+Faturista Hospitalar;Editora Saraiva;BA
+Farmaceutico Trainee;Volkswagen;BA
+Farmaceutico Trainee;Construtora Queiroz Galvao;BA
+Extrusor;Lojas Marisa;AL
+Extrusor;Coamo;AL
+Estampador;Votorantim Siderurgia;SP
+Estampador;Dia Brasil;SP
+Especialista de Produto;Procter and Gamble do Brasil;AP
+Especialista de Produto;Hypera Pharma;AP
+Escrevente;Ache;MA
+Engenheiro de Vendas;Grupo Aguia Branca;AP
+Engenheiro de Instalacoes;Sabesp;RJ
+Engenheiro de Compras;Profarma;MG
+Engenheiro de Assistencia Tecnica;Repsol Sinopec Brasil;SP
+Engenheiro de Assistencia Tecnica;Profarma;SP
+Engenheiro de Assistencia Tecnica;Bayer;SP
+Engenheiro da Qualidade;Cosan;RN
+Engenheiro Quimico;Gavillon;ES
+Engenheiro Metalúrgico;Atvos Agroindustrial;PB
+Engenheiro Mecatrônico;UOL;AP
+Engenheiro Eletroeletrônico;JBS;SP
+Engenheiro Eletroeletrônico;Gol Linahs Aereas;SP
+Enfermeiro Obstetra;Sanofi;RR
+Enfermeiro Chefe;Solvi;AM
+Enfermeiro Auditor;Glencore;RO
+Encarregado de Solda;Rhodia;AC
+Encarregado de Serralheria;Sabesp;TO
+Encarregado de Obras;Nexa Resources;AM
+Encarregado de Estacionamento;NTS;PR
+Encarregado de Carpintaria;Ajinomoto do Brasil;MT
+Encarregado de Caldeiraria;Nufarm;PE
+Encarregado Contabil;Basf;MG
+Encanador;Super Mercado Zona Sul;RN
+Eletricista de Veiculos;White Martins;CE
+Eletricista de Forca e Controle;UOL;RR
+Eletricista Montador de Painel;Yara;BA
+Eletricista Montador de Painel;Novelis;BA
+Eletricista Montador de Painel;Anglo American Minerio de Ferro;BA
+Eletricista Montador de Painel;Amaggi;BA
+Eletricista Montador;Vicunha Textil;RR
+Eletricista Montador;Repsol Sinopec Brasil;RR
+Eletricista Industrial;South32 Minerals;RN
+Eletricista;Estacio Participacoes;PA
+Editor de Video;Rodoil;RJ
+Documentador;Atems Distribuidora;RS
+Diretor de Logistica;Tupy;TO
+Diretor de Logistica;Camil;TO
+Diretor de Compras;Fertipar;MS
+Diretor Financeiro;Samsung;SC
+Designer de Interiores;Whirlpool ;RO
+Designer de Interface;CBMM;RJ
+Desenhista Projetista Hidraulico;Tres Coracoes Alimentos;AP
+Dentista;Totvs;SC
+DBA SQL;Petrogal;RO
+Cuidador de Criancas;Prossegur;MS
+Cozinheiro;Gazin;AL
+Cortador de Vidro;Camil;MA
+Coordenador de Tesouraria;Tres Coracoes Alimentos;PA
+Coordenador de Seguranca Patrimonial;Energia Sustentavel do Brasil;RO
+Coordenador de Saúde, Seguranca e Meio Ambiente;Tupy;RS
+Coordenador de Restaurante;BRF;SC
+Coordenador de Recepcao;Destro;AP
+Coordenador de Pos-venda;Eletrobras;RS
+Coordenador de Patrimônio;Supermercado Bahamas;MG
+Coordenador de Midias Sociais;Samsung;MS
+Coordenador de Midias Sociais;Algar Agro;MS
+Coordenador de Manutencao Industrial;Atvos Agroindustrial;SC
+Coordenador de Manutencao Industrial;Grendene;RS
+Coordenador de Implantacao;Comigo;MA
+Coordenador de Hotelaria;Lojas Cem;MA
+Coordenador de Expedicao;TIM Participações;PB
+Coordenador de Engenharia;Solar;AC
+Coordenador de Controladoria;Rede;GO
+Coordenador de Contas a Receber;CEEE;MG
+Coordenador de Assuntos Regulatorios;Telefonica Brasil;SC
+Coordenador de Armazem;CCR;RS
+Coordenador de Alimentos e Bebidas;Multilaser;MT
+Controlador de Patio;Rodoil;AC
+Continuo;Cotrijal;AP
+Continuo;CEEE;AP
+Consultor de Sistemas;MRS Logistica;GO
+Consultor de Seguros;Votener;GO
+Consultor de Responsabilidade Social;Localiza;AM
+Consultor de Responsabilidade Social;Drogarias DPSP;AM
+Consultor de Merchandising;Whirlpool ;AC
+Consultor de Merchandising;Atems Distribuidora;AC
+Consultor de Estetica;Energia Sustentavel do Brasil;ES
+Consultor de Credito Imobiliario;Sapore;MT
+Consultor de Credito Imobiliario;Roche;MT
+Consultor de Controladoria;Supermercados EPA;RR
+Consultor Tecnico de Veiculos;Citrosuco;AC
+Consultor Mastersaf;Cervejaria Ambev;MS
+Consultor Juridico;Rodoil;MT
+Consultor Empresarial;IP Brasil;SE
+Consultor Empresarial;Calamo;SE
+Consultor Empresarial;Rede DOr Sao Luiz;PE
+Comprador de Medicamentos;Embraer;SC
+Coletor de Lixo;Arteris;CE
+Coletor de Amostras;B3;RJ
+Codificador de Dados;Tambasa Atacadistas;MG
+Chief Technical Officer (CTO);Paranapanema;RS
+Chief Technical Officer (CTO);Localiza;RS
+Chefe de Recepcao;Copagaz;RN
+Chefe de Compras;Coopavel;ES
+Chefe de Compras;BRF;ES
+Caseiro;Intelbras S.A.;GO
+Cartunista;Capitale;MG
+Calceteiro;Rede DOr Sao Luiz;AP
+Cabeleireiro;Shell;TO
+Business Partner;Hypera Pharma;RN
+Booker;Nexa Resources;SC
+Bercarista;ECTP;MS
+Bamburista;Gerdau;PR
+Baba;UOL;RR
+Baba;Saga;RR
+Baba;Cargill;RR
+Baba;CPFL Energia;RR
+Auxiliar de Suprimentos;Drogarias DPSP;RO
+Auxiliar de Supervisao;Supermercados Extra;AL
+Auxiliar de Sinistro;Heringer;ES
+Auxiliar de Sinistro;Gol Linahs Aereas;ES
+Auxiliar de Restaurante;Atacadao/Carrefour;AL
+Auxiliar de Manutencao Industrial;Raia Drogasil;PR
+Auxiliar de Manutencao Eletrica;Pfizer;RS
+Auxiliar de Manutencao Eletrica;Comerc Energia;RS
+Auxiliar de Manutencao Eletrica;Glencore;AP
+Auxiliar de Manutencao Eletrica;Casas Pernambucanas;AP
+Auxiliar de Frota;Bianchini;SC
+Auxiliar de Engenharia Civil;Renault;TO
+Auxiliar de Criacao;Calcados Beira Rio;SC
+Auxiliar de Contas a Pagar e Receber;Gerdau;MS
+Auxiliar de Cobranca;Basf;PE
+Auxiliar Projetista;Comerc Energia;AM
+Auxiliar Contabil;Piracanjuba;AL
+Auditor de Processos;Cedae;MT
+Auditor Financeiro;Cotrijal;AL
+Auditor Financeiro;Bianchini;AL
+Atendente de Service Desk;Casas Pernambucanas;BA
+Atendente de Restaurante;Walmart;RR
+Atendente de Delivery;Piracanjuba;RO
+Atendente de Assistencia Tecnica;JBS;PE
+Assistente de Telecomunicacoes;JSL;AM
+Assistente de Suporte Tecnico;Comigo;RR
+Assistente de Suporte Tecnico;Agrex;RR
+Assistente de Sistemas;Globo;RJ
+Assistente de Service Desk;Vale;BA
+Assistente de Service Desk;Lojas Cem;AP
+Assistente de Seguranca da Informacao;Cencosud;TO
+Assistente de Relacoes Públicas;Engie Brasil Energia ;AL
+Assistente de Relacionamento;Man Latin America;BA
+Assistente de Recursos Humanos;Capitale;AL
+Assistente de Recebimento Fiscal;Atento;PI
+Assistente de Pesquisa e Desenvolvimento;Cervejaria Ambev;PA
+Assistente de PCP;Profarma;SP
+Assistente de Monitoramento;Elcano;AM
+Assistente de Monitoramento;Cia. Hering;AM
+Assistente de Loja;TI & Telecom;MS
+Assistente de Loja;Nufarm;MS
+Assistente de Faturamento;Aperam Inox America do SUl;BA
+Assistente de Engenharia;Comerc Energia;MG
+Assistente de Diretoria;Cooxupe;MT
+Assistente de Diretoria;Bunge Alimentos;MT
+Assistente de Desembaraco Aduaneiro;Petrovia;GO
+Assistente de Controle de Qualidade;Petrovia;ES
+Assistente de Cadastro;Cocamar;ES
+Assistente de Atendimento Publicitario;InterCement;PA
+Assistente Tecnico de Edificacoes;Sapore;RO
+Assistente Tecnico;CNH;RJ
+Assistente Fiscal;Dasa;AC
+Assistente Comercial;Procter and Gamble do Brasil;SC
+Assessor Juridico;Rede;RO
+Arquivista;Via Varejo;RS
+Arquivista;Copagaz;RS
+Arquiteto de Solucoes;Pfizer;PA
+Arquiteto de Sistemas;Anglo American Minerio de Ferro;AM
+Arquiteto de Interiores;Cemig;RR
+Arquiteto Paisagista;Totvs;MG
+Arquiteto Paisagista;Sotreq;MG
+Arquiteto Especificador;Globo;RR
+Aprendiz na area de Recepcao;Rede;RJ
+Aprendiz na area de Producao;Editora Saraiva;RS
+Aprendiz na area Mecanica;TIM Participações;RJ
+Aprendiz na area Mecanica;Electrolux;RJ
+Aprendiz na area Financeira;JBS;SE
+Aprendiz na area Financeira;Embasa;SE
+Aprendiz na area Comercial;Ultrapar;AP
+Aprendiz na area Administrativa;Bosch;RO
+Apontador de Producao;Supermercados EPA;ES
+Apontador de Producao;Biosev;ES
+Apontador de Obras;MRV;PB
+Apontador de Obras;M&G Polímeros;PB
+Antropologo;Energisa;PI
+Antropologo;ECTP;PI
+Antropologo;Coop;PI
+Analista de Sistemas SharePoint;Cenibra;RO
+Analista de Sistemas;GPS Participacoes;AM
+Analista de Seguros;Comexport;PE
+Analista de Seguros;GPS Participacoes;MS
+Analista de Seguros;Estacio Participacoes;MS
+Analista de Seguranca do Trabalho;Sotreq;GO
+Analista de Seguranca do Trabalho;Copersucar;GO
+Analista de Retencao;White Martins;GO
+Analista de Responsabilidade Social;Gol Linahs Aereas;SE
+Analista de Responsabilidade Social;Engie Brasil Energia ;SE
+Analista de Relacionamento;Itaipu;AP
+Analista de Recrutamento e Selecao;Bunge Acucar e Bioenergia;AL
+Analista de QSMS;Glencore;SC
+Analista de Publicidade e Propaganda;Zaffari;SC
+Analista de Projetos;Bayer;AM
+Analista de Processos Industriais;Lojas Marisa;PE
+Analista de Pesquisa de Mercado;Drogarias DPSP;DF
+Analista de Pesquisa de Mercado;Algar Agro;AP
+Analista de PCP;Clime;RR
+Analista de Governanca de TI;Cielo	;AC
+Analista de Geoprocessamento;Pfizer;PR
+Analista de Geoprocessamento;Novelis;PR
+Analista de Frota;Lojas Renner;RJ
+Analista de Eventos;Grupo MGB ;MT
+Analista de Eventos;Grupo Aguia Branca;MT
+Analista de Eventos;Aegea Saneamento;MT
+Analista de Engenharia;Ultrapar;RN
+Analista de Engenharia;Totvs;RN
+Analista de Departamento Pessoal;Kroton;ES
+Analista de Controles Internos;Pfizer;PB
+Analista de Controles Internos;Innova;PB
+Analista de Contas;Lojas Marisa;SC
+Analista de Contas;Amaggi;SC
+Analista de Cobranca;Cocamar;SP
+Analista de Cambio;MRV;PI
+Analista de Auditoria;CEG Rio;AL
+Analista de Apuracao de Resultados;Duratex;MT
+Analista Programador ASP.NET;Invepar;MT
+Analista Programador ASP.NET;Accenture;MT
+Analista Programador ADVPL;Novelis;MG
+Analista Comercial;Globo;AP
+Analista Comercial;EDP - Energias do Brasil;AP
+Ajudante de Vidraceiro;Odebrecht;PR
+Ajudante de Metalúrgico;Atacadao/Carrefour;RS
+Agente de Seguranca;Nestlé;RR
+Afiador de Ferramentas;Rhodia;MA
+Advogado Civel;Magnesita;MG
+Advogado Civel;Eletrobras;MG
+Administrador de Sistemas;Odebrecht Transport;BA
+Administrador de Sistemas;BRF;BA
+Administrador de Dados;Dass Sport Style;AM
+Administrador Predial;Aegea Saneamento;SE
+Administrador Hospitalar;EMS;GO
+Aderecista;Paranapanema;ES
+Aderecista;Construtora Queiroz Galvao;ES
+Acabador de Embalagem;Coca-Cola Femsa Brasil;RN

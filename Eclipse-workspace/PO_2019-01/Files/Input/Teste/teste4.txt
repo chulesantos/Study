@@ -1,0 +1,30 @@
+﻿Acabador de Embalagem;Coca-Cola Femsa Brasil;RN
+Aderecista;Construtora Queiroz Galvao;ES
+Aderecista;Paranapanema;ES
+Administrador Hospitalar;EMS;GO
+Administrador Predial;Aegea Saneamento;SE
+Administrador de Dados;Dass Sport Style;AM
+Administrador de Sistemas;BRF;BA
+Administrador de Sistemas;Odebrecht Transport;BA
+Advogado Civel;Eletrobras;MG
+Advogado Civel;Magnesita;MG
+Afiador de Ferramentas;Rhodia;MA
+Agente de Seguranca;Nestlé;RR
+Ajudante de Metalúrgico;Atacadao/Carrefour;RS
+Ajudante de Vidraceiro;Odebrecht;PR
+Analista Comercial;EDP - Energias do Brasil;AP
+Analista Comercial;Globo;AP
+Analista Programador ADVPL;Novelis;MG
+Analista Programador ASP.NET;Accenture;MT
+Analista Programador ASP.NET;Invepar;MT
+Analista de Apuracao de Resultados;Duratex;MT
+Analista de Auditoria;CEG Rio;AL
+Analista de Cambio;MRV;PI
+Analista de Cobranca;Cocamar;SP
+Analista de Contas;Amaggi;SC
+Analista de Contas;Lojas Marisa;SC
+Analista de Controles Internos;Innova;PB
+Analista de Controles Internos;Pfizer;PB
+Analista de Departamento Pessoal;Kroton;ES
+Analista de Engenharia;Totvs;RN
+Analista de Engenharia;Ultrapar;RN

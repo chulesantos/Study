@@ -1,0 +1,10 @@
+﻿Acabador de Embalagem;Coca-Cola Femsa Brasil;RN
+Aderecista;Construtora Queiroz Galvao;ES
+Aderecista;Paranapanema;ES
+Administrador Hospitalar;EMS;GO
+Administrador Predial;Aegea Saneamento;SE
+Administrador de Dados;Dass Sport Style;AM
+Administrador de Sistemas;BRF;BA
+Administrador de Sistemas;Odebrecht Transport;BA
+Advogado Civel;Eletrobras;MG
+Advogado Civel;Magnesita;MG

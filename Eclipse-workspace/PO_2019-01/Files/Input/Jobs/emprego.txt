@@ -1,0 +1,400 @@
+Aderecista;RS
+Administrador de Dados;GO
+AGRIMENSOR;GO
+Ajudante de Carpinteiro;GO
+Ajudante de Encanador;GO
+Ajudante de Metalúrgico;TO
+Ajudante de Off-set;AL
+Ajustador Mecanico;MA
+Alpinista Industrial;PA
+Analista de Apuracao de Resultados;SE
+Analista de Automacao;AM
+Analista de Campo;TO
+Analista de Comercio Exterior;AM
+Analista de Contas;MG
+Analista de Contas;SC
+Analista de Contas;SC
+Analista de Desembaraco Aduaneiro;MG
+Analista de Engenharia;RN
+Analista de Estoque;MT
+Analista de Frota;RJ
+Analista de Geoprocessamento;PR
+Analista de Geoprocessamento;PR
+Analista de Governanca de TI;AC
+Analista de Legalizacao;AM
+Analista de Marketing Online;PB
+Analista de Planejamento Estrategico;AM
+Analista de Produto;BA
+Analista de Publicidade e Propaganda;BA
+Analista de QSMS;SC
+Analista de Relacoes Institucionais;RR
+Analista de Seguros;MS
+Analista de Sinistro;PR
+Analista de Sistemas SharePoint;BA
+Analista de Suporte Tecnico;RS
+Analista de Tesouraria;MA
+Analista de Vendas;PR
+Analista Fiscal;MT
+Analista Fiscal;SC
+Analista Fiscal;SE
+Analista Programador ADVPL;ES
+Analista Programador ADVPL;MG
+Analista Quimico;SP
+Analista SOA;PA
+Apontador de Obras;MG
+Apontador de Producao;ES
+Aprendiz na area de Vendas;RO
+Aprendiz na area Mecanica;AL
+Aprendiz na area Mecanica;RJ
+Aprendiz na area Mecanica;RN
+Arquiteto de Interiores;RR
+Arquiteto de Sistemas;AM
+Arquiteto Paisagista;MG
+Arquivista;RS
+Artesao;AP
+Assistente de Almoxarifado;ES
+Assistente de Arte;MA
+Assistente de Arte;PI
+Assistente de Conteúdo Web;CE
+Assistente de Control Desk;AL
+Assistente de Controladoria;PA
+Assistente de Endomarketing;AM
+Assistente de Endomarketing;DF
+Assistente de Infraestrutura;ES
+Assistente de Monitoramento;AM
+Assistente de Orcamento;SP
+Assistente de Pesquisa e Desenvolvimento;PA
+Assistente de Pesquisa e Desenvolvimento;PA
+Assistente de Publicidade e Propaganda;MT
+Assistente de Publicidade e Propaganda;PB
+Assistente de Risco;RS
+Assistente de Service Desk;AP
+Assistente de Service Desk;AP
+Assistente de Service Desk;SC
+Assistente de Sistemas;MS
+Assistente de Sistemas;RJ
+Assistente Executivo;MA
+Assistente Executivo;MA
+Assistente Operacional;PE
+Assistente Tecnico de Edificacoes;RO
+Atendente de Cambio;ES
+Atendente de E-commerce;PI
+Atendente de Marketing;SE
+Atendente de Restaurante;RR
+Atendente de Service Desk;BA
+Atendente de Suporte Tecnico;ES
+Auditor Interno;PB
+Auxiliar de Cartorio;DF
+Auxiliar de Corte;RO
+Auxiliar de Corte;RO
+Auxiliar de Desenhista;DF
+Auxiliar de Extrusao;PB
+Auxiliar de Extrusao;SC
+Auxiliar de Farmacia;PA
+Auxiliar de Laboratorio;RR
+Auxiliar de Manutencao Hidraulica;CE
+Auxiliar de Manutencao Predial;AL
+Auxiliar de Modelista;RO
+Auxiliar de Orcamento;GO
+Auxiliar de Qualidade;AL
+Auxiliar de Reposicao;MG
+Auxiliar de Restaurante;AL
+Auxiliar de Seguros;MG
+Auxiliar de Sinistro;ES
+Auxiliar de Supervisao;AL
+Auxiliar de Vendas;CE
+Auxiliar de Veterinario;PB
+Auxiliar Operacional;AP
+Auxiliar Tecnico em Seguranca do Trabalho;RO
+Avaliador de Imoveis;MG
+Barman;PE
+Business Partner;RN
+Chefe de Cozinha;SE
+Chefe de Fila;MT
+Chief Technical Officer (CTO);RS
+Cinegrafista;GO
+Cliente Oculto;RO
+Consultor de Comunicacao;PA
+Consultor de Controladoria;SE
+Consultor de Credito Imobiliario;MG
+Consultor de Inteligencia de Mercado;CE
+Consultor de Loja;MT
+Consultor de Merchandising;AC
+Consultor de Processos;RR
+Consultor de Relacionamento;GO
+Consultor de Responsabilidade Social;AM
+Consultor de Responsabilidade Social;AM
+Consultor de Seguranca da Informacao;MG
+Consultor de Seguranca da Informacao;MG
+Consultor de Sistemas;GO
+Consultor Tecnico de Veiculos;AC
+Controlador de Qualidade;CE
+Coordenador de Assistencia Tecnica;MA
+Coordenador de Campo;RN
+Coordenador de Controladoria;GO
+Coordenador de Custos;PR
+Coordenador de Eventos;RJ
+Coordenador de Limpeza;PI
+Coordenador de Obras;PR
+Coordenador de Qualidade;MA
+Coordenador de Recrutamento e Selecao;AM
+Coordenador de Visual Merchandising;PA
+Coordenador Eletrônico;RS
+Coordenador Imobiliario;PE
+Coordenador Imobiliario;SC
+Coordenador Medico;PR
+Cortador de Tecidos;SP
+Cozinheiro;AL
+DBA SQL;RO
+Dentista Auditor;PB
+Dentista Auditor;RS
+Dentista Ortodontista;AC
+Dentista Ortodontista;BA
+Desenhista Mecanico;AC
+Desenhista Tecnico;SE
+Designer de Interacao;PR
+Designer de Interiores;RO
+Designer de Sobrancelha;AC
+Designer Instrucional;TO
+Despachante Imobiliario;RR
+Despachante Operacional de Voo;MA
+Despachante;CE
+Digitador de Laudos;MG
+Digitador de Laudos;MG
+Digitador de Laudos;RO
+Diretor de Logistica;TO
+Diretor Financeiro;SC
+Editor de Imagens;ES
+Editor de Texto;MG
+Editor de Video;RS
+Eletricista Industrial;SE
+Eletricista Montador de Painel;BA
+Eletricista Predial;PB
+Encarregado de Assistencia Tecnica;SE
+Encarregado de Corte;BA
+Encarregado de Estacionamento;RN
+Encarregado de Frota;MA
+Encarregado de Frota;MA
+Encarregado de Serralheria;TO
+Encarregado de Servicos Gerais;TO
+Encarregado Financeiro;RO
+Encarregado Financeiro;RO
+Enfermeiro SCIH;PI
+Engenheiro Clinico;DF
+Engenheiro de Controle e Automacao;BA
+Engenheiro de Instalacoes;RJ
+Engenheiro de Processos;AM
+Engenheiro de Produto;AL
+Engenheiro Metalúrgico;PB
+Engenheiro Metalúrgico;PB
+Engenheiro Sanitarista;RJ
+Entregador;BA
+Entregador;MG
+Especialista em Logistica Fluvial;AC
+Especialista Financeiro;SC
+Estofador;TO
+Farmaceutico Bioquimico;GO
+Farmaceutico Homeopata;SC
+Fiscal de Loja;CE
+Fiscal de Trafego;CE
+Fisioterapeuta Dermato Funcional;SP
+Funileiro de Veiculos;SE
+Gerente de Alimentos e Bebidas;SE
+Gerente de Contratos;AL
+Gerente de Controladoria;AL
+Gerente de Controle de Qualidade;MS
+Gerente de Faturamento;SC
+Gerente de Negocios;ES
+Gerente de Produto;AL
+Gerente de Recrutamento e Selecao;RO
+Gerente de Reservas;RN
+Gerente de Responsabilidade Social;CE
+Gerente de Seguranca da Informacao;MA
+Gerente de Seguranca do Trabalho;PE
+Gerente de SEM;BA
+Gerente de Servicos;SC
+Gerente de Telecomunicacoes;AP
+Gerente de Trade Marketing;RR
+Gerente de Treinamento e Desenvolvimento;PE
+Gerente de Turismo;SP
+Gerente de Vendas;MG
+Gerente Fiscal;RN
+Gerente Medico;AL
+Gerente Predial;RN
+Gestor de Ecorrelacoes;GO
+Gestor de Ecorrelacoes;GO
+Gestor de Ecorrelacoes;GO
+Hostess;DF
+Impressor Off-set;PR
+Inspetor de Frota;AP
+Inspetor de Solda;BA
+Inspetor Veicular;PI
+Instalador de Acessorios;RO
+Instalador de Alarmes;PR
+Instalador de Vidros Automotivos;RO
+Instrumentador Cirúrgico;SP
+Instrumentista;PI
+Instrutor de Aviacao;PA
+Instrutor de Motorista;RJ
+Laboratorista de Concreto;AL
+Laboratorista de Concreto;ES
+Laboratorista Fotografico;RJ
+Lactarista;AL
+Lavadeiro;RJ
+Lavador;ES
+Lider de Loja;BA
+Lider de Portaria;DF
+Lider de Usinagem;RR
+Lider de Usinagem;SC
+Limpador de Vidros;PB
+Manobrista;DF
+Marinheiro;MS
+Marteleteiro;CE
+Mecanico de Ar Condicionado;CE
+Mecanico Eletricista;PR
+Medico Alergologista;SE
+Medico Anestesista;BA
+Medico Clinico Geral;PE
+Medico do Trafego;PA
+Medico Ecocardiografista;BA
+Medico Homeopata;AC
+Medico Mastologista;RO
+Medico Reumatologista;PI
+Meio Oficial de Ferramentaria;RS
+Meio Oficial Fresador;RN
+Meio Oficial Serralheiro;AP
+Mensageiro;SP
+Mestre Cervejeiro;MG
+Modelista;RO
+Monitor de Qualidade;RO
+Montador de Maquinas;ES
+Montador de Veiculos;MS
+Motorista de Ambulancia;DF
+Motorista de Ambulancia;DF
+Nutricionista;MT
+Oficial Eletricista;SP
+Operador de Cobranca;MT
+Operador de Cobranca;TO
+Operador de Eletroerosao;MT
+Operador de Maquina de Corte;ES
+Operador de Maquina de Sopro;ES
+Operador de Maquina de Sopro;PA
+Operador de Rebocador;BA
+Operador de Trafego;AC
+Operador de Turismo;RS
+Operador de Zincagem;RR
+Palestrante;AC
+Pedagogo;PI
+Peixeiro;SP
+Personal Trainer;MT
+Piloto Agricola;AC
+Piloto de Aviao;PB
+Piloto de Testes;AP
+Pintor de Estruturas Metalicas;RO
+Prensista;MT
+Preparador Fisico;RS
+Produtor de Conteúdo;AL
+Produtor de Eventos;DF
+Produtor de Video;AM
+Produtor Editorial;PE
+Produtor Grafico;PE
+Professor de Administracao Pública;MG
+Professor de Biologia;RJ
+Professor de Construcao Civil;CE
+Professor de CorelDRAW;AP
+Professor de Design de Interiores;RO
+Professor de Direito Administrativo;PE
+Professor de Direito Constitucional;AM
+Professor de Direito;RS
+Professor de Empreendedorismo;MT
+Professor de Engenharia Civil;ES
+Professor de Engenharia Civil;ES
+Professor de Engenharia;PE
+Professor de Ensino Fundamental;RR
+Professor de Filosofia;RS
+Professor de Filosofia;SC
+Professor de Historia;AC
+Professor de Jornalismo;MT
+Professor de Mecanica;PA
+Professor de Mecanica;PA
+Professor de Mecanica;PA
+Professor de Mecanica;PA
+Professor de Mecanica;PA
+Professor de Odontologia;SC
+Professor de Programacao de Computadores;PR
+Professor de Programacao de Computadores;PR
+Professor de Protese Dentaria;PA
+Professor de Psicopedagogia;RS
+Professor de Radiologia;TO
+Professor de Recreacao;PI
+Professor de Recursos Humanos;MT
+Professor de Russo;RS
+Professor de Seguranca do Trabalho;RR
+Professor de Sistemas de Informacao;RN
+Professor de Sistemas de Informacao;RN
+Professor de Visual Basic;GO
+Professor de Web Design;AM
+Professor de Windows;PE
+Professor de Xadrez;PE
+Professor de Zootecnia;RN
+Programador de Producao;PI
+Programador de Software;AL
+Programador JavaScript;MT
+Programador Microsiga;MG
+Programador Node.js;CE
+Programador PHP;MA
+Programador PHP;RS
+Programador SOA;MA
+Programador Visual Basic;AL
+Programador Visual Basic;RS
+Projetista de Telecomunicacoes;RR
+Promotor de Merchandising;PR
+Redator;GO
+Retificador;RN
+Scrum Master;MA
+Secretaria Financeira;RO
+Secretaria;MT
+Serralheiro;PE
+Sindico;RN
+Sonoplasta;MS
+Supervisor de Merchandising;SC
+Supervisor de Prevencao de Perdas;RJ
+Supervisor de Recepcao;CE
+Supervisor de Recursos Humanos;RR
+Supervisor de Reservas;ES
+Supervisor de Reservas;RJ
+Supervisor de Tecnologia da Informacao;MS
+Supervisor de Transportes;DF
+Supervisor de Treinamento e Desenvolvimento;RJ
+Supervisor de Usinagem;SC
+Supervisor de Vendas;PA
+Sushiman;BA
+Sushiman;PE
+Sushiman;RO
+Tapeceiro;MS
+Tecnico Comercial;PE
+Tecnico de Celular;AC
+Tecnico de Montagem;CE
+Tecnico de Planejamento de Manutencao;RJ
+Tecnico em Instrumentacao;AL
+Tecnico em Medicao;PE
+Tecnico em Meio Ambiente;MG
+Tecnico em Plasticos;MA
+Tecnico em Plasticos;PA
+Tecnico em Polissonografia;CE
+Tecnico em Projetos;AL
+Tecnico em Secretariado;RN
+Tecnico Orcamentista;RO
+Tecnico Textil;BA
+Tecnologo em Mecanica;ES
+Terapeuta Ocupacional;PE
+Terapeuta Ocupacional;RJ
+Tradutor de Alemao;RN
+Tradutor;SC
+Trainee em Engenharia Civil;GO
+Trainee em Engenharia Quimica;ES
+Trainee em Suporte Tecnico;SE
+Trainee em Vendas;ES
+Tratador de Piscina;TO
+Vidraceiro;MT
+Vistoriador de Veiculos;RS
