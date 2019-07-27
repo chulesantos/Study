@@ -19,7 +19,11 @@
 - npm install method-override [ Auxilia no controle de rotas com metodo POST e PUT];
 - npm install marko [ Auxilia criação de páginas html dentro do servidor];
 - npm install sqlite3 [ Instala o Banco de Dados SQLite ];
-- npm install body-parser [ Converte o body da requisição para vários formatados {JSON} ]
+- npm install body-parser [ Converte o body da requisição para vários formatados {JSON} ];
+- npm install uuid [ Gera Strings aleatorios de SESSION ID ];
+- npm install express-session [ Criar Sessões junto com o Express ];
+- npm install passport [ Auxilia na manipulação de Sessões { SESSION } ];
+- npm install passport-local [ Auxilia na manipulação de Sessões { SESSION } ]
 
 ### Configurações
 
