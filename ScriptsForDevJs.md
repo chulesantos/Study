@@ -24,6 +24,7 @@
 - npm install express-session [ Criar Sessões junto com o Express ];
 - npm install passport [ Auxilia na manipulação de Sessões { SESSION } ];
 - npm install passport-local [ Auxilia na manipulação de Sessões { SESSION } ]
+- npm install consign [ Auxilia no controle das rotas ]
 
 ### Configurações
 
