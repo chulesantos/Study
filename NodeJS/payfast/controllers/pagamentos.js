@@ -12,7 +12,15 @@ console.log('Processamento uma requisicao de um novo pagamento.');
 pagamento.status = 'CRIADO';
 pagamento.data = new Date;
 
-resp.send(pagamento);
+var connection = app.persistencia.connectionFactory();
+
+var pagamentoDao = new app.persistencia.PagamentoDao(connection);
+
+pagamentoDao.salva(pagamento, function(erro, resultado){
+console.log('Pagamento criado!');
+resp.json(pagamento);
+
+});
     
 });
 }
