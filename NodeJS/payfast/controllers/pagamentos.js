@@ -18,6 +18,8 @@ var pagamentoDao = new app.persistencia.PagamentoDao(connection);
 
 pagamentoDao.salva(pagamento, function(erro, resultado){
 console.log('Pagamento criado!');
+console.log(erro);
+
 resp.json(pagamento);
 
 });
