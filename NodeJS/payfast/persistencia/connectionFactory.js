@@ -2,7 +2,7 @@ var mysql  = require('mysql');
 
 function createDBConnection(){
         return mysql.createConnection({
-            host: '10.1.0.135:8080',
+            host: 'localhost',
             user: 'root',
             password: '$sudopasswdroot',
             database: 'payfast'
