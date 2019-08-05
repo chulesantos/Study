@@ -7,7 +7,21 @@ app.get('/pagamentos', function(req, resp) {
 
 app.post('/pagamentos/pagamento', function(req, resp) {
 var pagamento = req.body;
-console.log('Processamento uma requisicao de um novo pagamento.');
+
+req.assert("forma_de_pagamento", "Forma de pagamento é obrigatório.").notEmpty();
+req.assert("valor", "Valor é obrigatório e deve ser um decimal.").notEmpty().isFloat();
+req.assert("moeda", "Moeda é obrigatória e deve ter 3 caracteres.").notEmpty().len(3,3);
+
+var errors = req.validationErrors();
+
+if(errors) {
+    console.log("Erros de validação encontrados");
+    resp.status(400).send(errors);
+    return;
+}
+
+console.log('processando pagamento ...');
+
 
 pagamento.status = 'CRIADO';
 pagamento.data = new Date;
@@ -17,11 +31,19 @@ var connection = app.persistencia.connectionFactory();
 var pagamentoDao = new app.persistencia.PagamentoDao(connection);
 
 pagamentoDao.salva(pagamento, function(erro, resultado){
-console.log('Pagamento criado!');
-console.log(erro);
 
-resp.json(pagamento);
-
+    if(erro) {
+        
+        console.log('Erro ao inserir no banc:' + erro);
+        resp.status(500).send(erro);
+   
+    } else {
+        console.log('Pagamento criado');
+        resp.location('/pagamentos/pagamento/' + resultado.insertId);
+        resp.status(201).json(pagamento);
+        
+    }
+        
 });
     
 });

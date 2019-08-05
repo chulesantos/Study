@@ -14,7 +14,7 @@
 ### Modulos Uteis
 
 - npm install express [ Auxilia na criação de rotas ];
-- npm install express-validator [ Auxilia na validação de parametros ];
+- npm install express-validator@5.3.1 [ Auxilia na validação de parametros ];
 - npm install nodemon [ Possibilita no reload do servidor ];
 - npm install method-override [ Auxilia no controle de rotas com metodo POST e PUT];
 - npm install marko [ Auxilia criação de páginas html dentro do servidor];

@@ -15,3 +15,4 @@
 
 - curl URL -X POST -v -H "Content-type: application/json" -d '**{Script Json}**'; echo;
 - curl URL -X POST -v -H "Content-type: application/json" -d @diretorio/arquivo.json; echo
+- POSTMAN Aplicação Google Chrome para teste de REST API
