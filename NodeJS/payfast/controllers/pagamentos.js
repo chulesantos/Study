@@ -5,6 +5,29 @@ app.get('/pagamentos', function(req, resp) {
     resp.send('OK');
 });
 
+app.put('/pagamentos/pagamento/:id', function (req, resp) {
+
+    var pagamento = {};
+
+    var id = req.params.id;
+
+    pagamento.id = id;
+    pagamento.status = 'CONFIRMADO';
+
+    var connection = app.persistencia.connectionFactory();
+    var pagamentoDao = new app.persistencia.PagamentoDao(connection);
+
+    pagamentoDao.atualiza(pagamento, function (erro) {
+        if(erro) {
+            resp.status(500).send(erro);
+            return;
+        }
+        resp.send(pagamento);
+
+});
+
+});
+
 app.post('/pagamentos/pagamento', function(req, resp) {
 var pagamento = req.body;
 
@@ -27,7 +50,6 @@ pagamento.status = 'CRIADO';
 pagamento.data = new Date;
 
 var connection = app.persistencia.connectionFactory();
-
 var pagamentoDao = new app.persistencia.PagamentoDao(connection);
 
 pagamentoDao.salva(pagamento, function(erro, resultado){
