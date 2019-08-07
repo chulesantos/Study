@@ -5,6 +5,31 @@ app.get('/pagamentos', function(req, resp) {
     resp.send('OK');
 });
 
+app.delete('/pagamentos/pagamento/:id', function (req, resp) {
+
+    var pagamento = {};
+
+    var id = req.params.id;
+
+    pagamento.id = id;
+    pagamento.status = 'CANCELADO';
+
+    var connection = app.persistencia.connectionFactory();
+    var pagamentoDao = new app.persistencia.PagamentoDao(connection);
+
+    pagamentoDao.atualiza(pagamento, function (erro) {
+        if(erro) {
+            resp.status(500).send(erro);
+            return;
+            console.log('pagamento cancelado');
+            
+        }
+        resp.status(204).send(pagamento);
+
+});
+
+});
+
 app.put('/pagamentos/pagamento/:id', function (req, resp) {
 
     var pagamento = {};
@@ -60,9 +85,31 @@ pagamentoDao.salva(pagamento, function(erro, resultado){
         resp.status(500).send(erro);
    
     } else {
+        pagamento.id = resultado.insertId;
         console.log('Pagamento criado');
-        resp.location('/pagamentos/pagamento/' + resultado.insertId);
-        resp.status(201).json(pagamento);
+        resp.location('/pagamentos/pagamento/' + pagamento.id);
+
+        var response = {
+            dados_do_pagamento: pagamento,
+            links: [
+                {
+                    href: "http://localhost:3000/pagamentos/pagamento/"
+                    + pagamento.id,
+                    rel: "confirmar",
+                    method: "PUT"
+                },
+
+                {
+                    href: "http://localhost:3000/pagamentos/pagamento/"
+                    + pagamento.id,
+                    rel: "cancelar",
+                    method: "DELETE"
+
+                }
+            ]
+        }
+
+        resp.status(201).json(response);
         
     }
         
