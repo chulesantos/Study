@@ -5,6 +5,10 @@ app.get('/pagamentos', function(req, resp) {
     resp.send('OK');
 });
 
+    const PAGAMENTO_CRIADO = "CRIADO";
+      const PAGAMENTO_CONFIRMADO = "CONFIRMADO";
+      const PAGAMENTO_CANCELADO = "CANCELADO";
+
 app.delete('/pagamentos/pagamento/:id', function (req, resp) {
 
     var pagamento = {};
@@ -12,7 +16,7 @@ app.delete('/pagamentos/pagamento/:id', function (req, resp) {
     var id = req.params.id;
 
     pagamento.id = id;
-    pagamento.status = 'CANCELADO';
+    pagamento.status = PAGAMENTO_CANCELADO;
 
     var connection = app.persistencia.connectionFactory();
     var pagamentoDao = new app.persistencia.PagamentoDao(connection);
@@ -37,7 +41,7 @@ app.put('/pagamentos/pagamento/:id', function (req, resp) {
     var id = req.params.id;
 
     pagamento.id = id;
-    pagamento.status = 'CONFIRMADO';
+    pagamento.status = PAGAMENTO_CONFIRMADO;
 
     var connection = app.persistencia.connectionFactory();
     var pagamentoDao = new app.persistencia.PagamentoDao(connection);
@@ -54,11 +58,11 @@ app.put('/pagamentos/pagamento/:id', function (req, resp) {
 });
 
 app.post('/pagamentos/pagamento', function(req, resp) {
-var pagamento = req.body;
+var pagamento = req.body["pagamento"];
 
-req.assert("forma_de_pagamento", "Forma de pagamento é obrigatório.").notEmpty();
-req.assert("valor", "Valor é obrigatório e deve ser um decimal.").notEmpty().isFloat();
-req.assert("moeda", "Moeda é obrigatória e deve ter 3 caracteres.").notEmpty().len(3,3);
+req.assert("pagamento.forma_de_pagamento", "Forma de pagamento é obrigatório.").notEmpty();
+req.assert("pagamento.valor", "Valor é obrigatório e deve ser um decimal.").notEmpty().isFloat();
+req.assert("pagamento.moeda", "Moeda é obrigatória e deve ter 3 caracteres.").notEmpty().len(3,3);
 
 var errors = req.validationErrors();
 
@@ -71,7 +75,7 @@ if(errors) {
 console.log('processando pagamento ...');
 
 
-pagamento.status = 'CRIADO';
+pagamento.status = PAGAMENTO_CRIADO;
 pagamento.data = new Date;
 
 var connection = app.persistencia.connectionFactory();
@@ -87,6 +91,18 @@ pagamentoDao.salva(pagamento, function(erro, resultado){
     } else {
         pagamento.id = resultado.insertId;
         console.log('Pagamento criado');
+
+        if(pagamento.forma_de_pagamento == 'cartao') {
+            var cartao = req.body["cartao"];
+            console.log(cartao);
+
+            clienteCartoes.autoriza(cartao);
+
+
+            resp.status(201).json(cartao);
+            
+            return;
+        }
         resp.location('/pagamentos/pagamento/' + pagamento.id);
 
         var response = {

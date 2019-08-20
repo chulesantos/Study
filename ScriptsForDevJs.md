@@ -25,6 +25,7 @@
 - npm install passport [ Auxilia na manipulação de Sessões { SESSION } ];
 - npm install passport-local [ Auxilia na manipulação de Sessões { SESSION } ]
 - npm install consign [ Auxilia no controle das rotas ]
+- npm install restify-clients [ Consumir APIs REST ]
 
 ### Configurações
 
