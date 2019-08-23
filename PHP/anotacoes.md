@@ -21,3 +21,11 @@ php -S localhost:8000 - subir um servidor local para teste
 "Ctrl + U" - código fonte da página
 
 para imprimir algum valor podemos usar <?= $valor ?>
+
+is_int(), que testa se a variável é do tipo inteiro
+
+podemos garantir que a variável seja um número, seja ele decimal ou não, com a função is_numeric()
+
+  die(); => Parar a execução do código
+
+  Lembrando: no PHP, não é possível herdar duas classes ao mesmo tempo, mas é possível fazer uma "herança em cascata".

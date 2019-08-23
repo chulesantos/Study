@@ -17,32 +17,36 @@ class ContaCorrente
 
     public function sacar($valor)
     {
+        Validacao::verificaNumerico($valor);
         $this->saldo = $this->saldo - $valor;
         return $this;
     }
 
     public function depositar($valor)
     {
+        Validacao::verificaNumerico($valor);
         $this->saldo = $this->saldo + $valor;
         return $this;
     }
 
-    private function protegeAtributo($atributo)
+    public function transferir(float $valor, ContaCorrente $conta)
     {
-        if ($atributo == "titular" || $atributo == "saldo") {
-            throw new Exception("O atributo $atributo continua privado");
-        }
+        Validacao::verificaNumerico($valor);
+        $this->sacar($valor);
+        $conta->depositar($valor);
+
+        return $this;
     }
 
     public function __get($atributo)
     {
-        $this->protegeAtributo($atributo);
+        Validacao::protegeAtributo($atributo);
         return $this->$atributo;
     }
 
     public function __set($atributo, $valor)
     {
-        $this->protegeAtributo($atributo);
+        Validacao::protegeAtributo($atributo);
         $this->$atributo = $valor;
     }
 
@@ -54,6 +58,12 @@ class ContaCorrente
     public function getSaldo()
     {
         return $this->formataSaldo();
+    }
+
+    public function __toString()
+    {
+
+        return "O titular da conta é {$this->titular}. Seu saldo atual é: {$this->getSaldo()}";
     }
 
 }
