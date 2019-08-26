@@ -1,0 +1,12 @@
+{
+    "name": "chulesantos/buscador-cursos-alura",
+    "description": "Projeto que busca cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "chulesantos",
+            "email": "chulesantos@outlook.com"
+        }
+    ],
+    "require": {}
+}
