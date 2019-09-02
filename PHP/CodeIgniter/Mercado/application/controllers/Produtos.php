@@ -7,7 +7,7 @@ class Produtos extends CI_Controller
     {
         $produtos = array();
 
-        $bola = array(
+        $ram = array(
             "nome" => "RAM",
             "descricao" => "Descricao RAM",
             "preco" => 200,
@@ -19,7 +19,7 @@ class Produtos extends CI_Controller
             "preco" => 100,
         );
 
-        array_push($produtos, $bola, $hd);
+        array_push($produtos, $ram, $hd);
 
         $dados = array("produtos" => $produtos);
 
