@@ -8,15 +8,15 @@ class Produtos extends CI_Controller
         $produtos = array();
 
         $bola = array(
-            "nome" => "Bola",
-            "descricao" => "Descricao Bola",
-            "preco" => 50,
+            "nome" => "RAM",
+            "descricao" => "Descricao RAM",
+            "preco" => 200,
         );
 
         $hd = array(
             "nome" => "HD",
             "descricao" => "Descricao HD",
-            "preco" => 400,
+            "preco" => 100,
         );
 
         array_push($produtos, $bola, $hd);
