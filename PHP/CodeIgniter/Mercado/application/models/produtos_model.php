@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 class Produtos_model extends CI_Model {
 
