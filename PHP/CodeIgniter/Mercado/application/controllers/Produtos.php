@@ -5,21 +5,10 @@ class Produtos extends CI_Controller
 
     public function index()
     {
-        $produtos = array();
-
-        $ram = array(
-            "nome" => "RAM",
-            "descricao" => "Descricao RAM",
-            "preco" => 200,
-        );
-
-        $hd = array(
-            "nome" => "HD",
-            "descricao" => "Descricao HD",
-            "preco" => 100,
-        );
-
-        array_push($produtos, $ram, $hd);
+        $this->load->database();
+        $this->load->model("produtos_model");
+        
+        $produtos = $this->produtos_model->buscaTodos();
 
         $dados = array("produtos" => $produtos);
 
