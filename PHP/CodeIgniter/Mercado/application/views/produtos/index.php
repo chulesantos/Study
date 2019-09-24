@@ -1,6 +1,6 @@
 <html lang="en">
     <head>
-        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="<?= base_url("css/bootstrap.css") ?>">
     </head>
 
 <body> 

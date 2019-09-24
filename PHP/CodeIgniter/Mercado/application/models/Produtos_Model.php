@@ -1,6 +1,6 @@
 <?php 
 
-class Produtos_model extends CI_Model {
+class Produtos_Model extends CI_Model {
 
     public function buscaTodos() {
 

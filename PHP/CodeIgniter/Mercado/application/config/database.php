@@ -74,10 +74,10 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'mysql:host=localhost; dbname=mercado; charset=utf8;',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '$sudopasswdroot',
+	'dsn'	=> 'mysql:host=10.101.70.2; dbname=chule-estudo; charset=utf8;',
+	'hostname' => '10.101.70.2',
+	'username' => 'suporte',
+	'password' => 'Pharma_TI_2019',
 	'database' => '',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
